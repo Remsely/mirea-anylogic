@@ -1,0 +1,1 @@
+rootProject.name = "practice-11-12-oil-company-revenue"
